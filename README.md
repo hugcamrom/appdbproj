@@ -82,10 +82,10 @@ pip install mysql-connector-python neo4j
 - [Python `datetime` Module](https://docs.python.org/3/library/datetime.html)
 - [Python Official Site](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
-- Your own project files including:
+- Files including:
   - `innovation.docx`
   - MySQL and Cypher queries
-  - Screenshots or test results (if added)
+  - Test results
 
 ---
 
