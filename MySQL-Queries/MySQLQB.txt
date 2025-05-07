@@ -1,0 +1,7 @@
+SELECT
+DISTINCT Studio.StudioName AS Studio
+FROM filmcast
+JOIN Film ON filmcast.CastFilmID = Film.FilmID
+JOIN Studio ON Film.FilmStudioID = Studio.StudioID
+WHERE filmcast.CastActorID = 1
+ORDER BY Studio;

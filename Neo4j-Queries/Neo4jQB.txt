@@ -1,0 +1,4 @@
+MATCH (c:Course)-[:PROVIDED_BY]->(:Location {location: "Galway"})
+MATCH (s:Student)-[:STUDIES]->(c)
+RETURN c.name AS Name, c.cao AS CAO, ROUND(SUM(toFloat(s.gpa)), 1) AS Total_GPA
+ORDER BY CAO;

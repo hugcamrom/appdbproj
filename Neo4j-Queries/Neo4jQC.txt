@@ -1,0 +1,7 @@
+MATCH (c:Course)-[:PROVIDED_BY]->(l:Location)-[:PART_OF]->(i:Institution)
+WHERE i.name CONTAINS "Atlantic Technological University"
+OPTIONAL MATCH (s:Student)-[:STUDIES]->(c)
+WITH l.location AS Location, c, COUNT(s) AS StudentCount
+WHERE StudentCount = 0
+RETURN Location, COUNT(c) AS Empty_Courses
+ORDER BY Empty_Courses DESC, Location;

@@ -1,0 +1,5 @@
+MATCH (me:Student {sid:"TUS-L017"})-[:FRIENDS_WITH]-(friend:Student)-[:FRIENDS_WITH]-(foaf:Student)
+WHERE NOT (me)-[:FRIENDS_WITH]-(foaf) AND foaf.sid <> me.sid
+MATCH (foaf)-[:STUDIES]->(course:Course)
+RETURN DISTINCT foaf.name AS FOAF, course.name AS FOAF_Course
+ORDER BY FOAF, FOAF_Course;

@@ -1,0 +1,2 @@
+MATCH (s:Student)-[:STUDIES]->(c:Course)-[:PROVIDED_BY]->(l:Location {location: "Sligo"})
+RETURN ROUND(AVG(s.gpa), 1) AS Avg_Sligo_GPA;

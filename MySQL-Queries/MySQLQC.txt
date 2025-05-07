@@ -1,0 +1,8 @@
+SELECT
+Actor.ActorName AS Actor, Genre.GenreName AS Genre, Film.FilmName AS Film
+FROM Actor
+JOIN filmcast ON Actor.ActorID = filmcast.CastActorID
+JOIN Film ON filmcast.CastFilmID = Film.FilmID
+JOIN Genre ON Film.FilmGenreID = Genre.GenreID
+WHERE YEAR(Actor.ActorDOB) between 1960 AND 1965
+ORDER BY Actor, Genre, Film;
