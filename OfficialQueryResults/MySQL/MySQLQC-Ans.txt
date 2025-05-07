@@ -1,0 +1,45 @@
+Actor	Genre	Film
+Andy Serkis	Other	King Kong
+Brad Pitt	Other	Ocean's Eleven
+Brad Pitt	Other	Troy
+Brad Pitt	Romantic	Mr. and Mrs. Smith
+Chris Rock	Other	Bee Movie
+Chris Rock	Other	Lethal Weapon 4
+Don Cheadle	Other	Ocean's Eleven
+George Clooney	Drama	The Perfect Storm
+George Clooney	Other	Ocean's Eleven
+Hiroyuki Sanada	Other	Sunshine
+Hiroyuki Sanada	Other	The Last Samurai
+Hugo Weaving	Other	The Matrix Reloaded
+Hugo Weaving	Other	The Matrix Revolutions
+Hugo Weaving	Other	Transformers
+Jet Li	Other	Lethal Weapon 4
+John C. Reilly	Drama	The Perfect Storm
+Johnny Depp	Muscial	Charlie and the Chocolate Factory
+Keanu Reeves	Other	The Matrix Reloaded
+Keanu Reeves	Other	The Matrix Revolutions
+Laurence Fishburne	Other	Mission: Impossible III
+Laurence Fishburne	Other	The Matrix Reloaded
+Laurence Fishburne	Other	The Matrix Revolutions
+Matthew Broderick	Other	Bee Movie
+Michelle Yeoh	Other	Sunshine
+Michelle Yeoh	Other	Tomorrow Never Dies
+Monica Bellucci	Other	The Matrix Reloaded
+Monica Bellucci	Other	The Matrix Revolutions
+Nicolas Cage	Other	Windtalkers
+Ralph Fiennes	Other	Harry Potter and the Goblet of Fire
+Ralph Fiennes	Other	Harry Potter and the Order of the Phoenix
+Rena Owen	Other	Once Were Warriors
+Rena Owen	Other	Star Wars: Episode III - Revenge of the Sith
+Samantha Bond	Other	Die Another Day
+Samantha Bond	Other	Tomorrow Never Dies
+Steve Carell	Drama	Evan Almighty
+Steve Coogan	Other	Around the World in 80 Days
+Temuera Morrison	Other	Once Were Warriors
+Temuera Morrison	Other	Star Wars: Episode II - Attack of the Clones
+Temuera Morrison	Other	Star Wars: Episode III - Revenge of the Sith
+Tom Cruise	Other	Mission: Impossible II
+Tom Cruise	Other	Mission: Impossible III
+Tom Cruise	Other	The Last Samurai
+Tom Cruise	Other	War of the Worlds
+Tom Sizemore	Other	Pearl Harbor

@@ -1,0 +1,5 @@
+FOAF, FOAF_Course
+"Brian McBrien", "B.A. in Hotel Management"
+"Carol Connolly", "B.A. in Social Studies"
+"Laura Collins", "B.A. in Social Studies"
+"Tadgh Robins", "B.Eng. (Hons) in Industrial Engineering"

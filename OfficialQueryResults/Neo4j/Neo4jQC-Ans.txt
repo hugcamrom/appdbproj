@@ -1,0 +1,4 @@
+Location, Empty_Courses
+"Galway", 3
+"Letterkenny", 3
+"Sligo", 1

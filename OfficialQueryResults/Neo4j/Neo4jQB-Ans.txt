@@ -1,0 +1,5 @@
+Name, CAO, Total_GPA
+"B.Comm. in Business", "atugB", 17.0
+"B.Sc. in Computer Science", "atugCS", 16.0
+"B.Eng. in Mechanical Engineering", "atugME", 6.0
+"B.Sc. in Physics", "atugP", 7.0
