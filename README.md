@@ -1,5 +1,13 @@
 # 🎬 MoviesDB Application (`appdbproj`)
 
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational.svg)
+![Neo4j](https://img.shields.io/badge/GraphDB-Neo4j-blue.svg)
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![Status](https://img.shields.io/badge/Status-Final-green.svg)
+
+
 A Python-based database application integrating **MySQL** and **Neo4j** to manage and explore movie-related data. Developed as part of the **Applied Databases** project, it includes full CLI interaction and relationship querying using both relational and graph models.
 
 ---
