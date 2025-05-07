@@ -100,6 +100,7 @@ pip install mysql-connector-python neo4j
 ## 👤 Author
 
 **Hugo C. Romero**  
-Student at [ATU](https://www.atu.ie/) 
+Student at [ATU](https://www.atu.ie/)
+ 
 Course: Applied Databases
 
